@@ -1,8 +1,8 @@
 # CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach
 
-Accetped by Information Fusion 103(2024) 102147  
+Accetped by Information Fusion 103(2024) 102147, https://doi.org/10.1016/j.inffus.2023.102147  
 [Hui Li*](https://hli1221.github.io/), Xiao-Jun Wu  
-[paper](https://doi.org/10.1109/TPAMI.2023.3268209), [Arxiv]()  
+[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523004633), [Arxiv]()  
 
 <img src="https://github.com/hli1221/CrossFuse/blob/main/figures/14-journal-crossfuse.png" width="600">
 
