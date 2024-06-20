@@ -29,7 +29,7 @@ If you have any question about this code, feel free to reach me(lihui.cv@jiangna
 # Citation
 
 ```
-@article{li2023lrrnet,
+@article{li2024crossfuse,
   title={{CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach}},
   author={Li, Hui and Wu, Xiao-Jun},
   journal={Information Fusion},
